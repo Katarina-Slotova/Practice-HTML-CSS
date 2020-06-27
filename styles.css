@@ -1,0 +1,88 @@
+body {
+  background-color: hsl(229, 57%, 11%);
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  color: white;
+  position: relative;
+}
+
+.ractangle {
+  width: 500px;
+  height: 150px;
+  background-color: hsl(228, 56%, 26%);
+  border-radius: 25px;
+  position: absolute;
+  z-index: 2;
+  margin-top: 9rem;
+  margin-left: 45rem;
+  text-indent: 20px;
+  padding-top: 10px;
+}
+
+.storage-space {
+  padding-left: 20px;
+  width: 460px;
+}
+
+.space-overall {
+  margin-left: 23rem;
+}
+
+.space-left {
+  font-weight: 700;
+}
+
+.GB-left {
+  font-size: 30px;
+  }
+
+.GB-text {
+  font-variant: small-caps;
+  color: grey;
+  font-weight: bold;
+}
+
+.square {
+  background-color: white;
+  color: black;
+  height: 2rem;
+  width: 8rem;
+  padding-bottom: 30px;
+  text-align: center;
+  border-radius: 15px 15px 0 15px;
+  position: absolute;
+  z-index: 4;
+  margin-top: 7rem;
+  margin-left: 65rem;
+}
+
+.rectangle-logo {
+  background-color: hsl(228, 56%, 26%);
+  width: 350px;
+  height: 150px;
+  position: absolute;
+  border-radius: 20px 100px 20px 20px;
+  z-index: 6;
+  margin-top: 7rem;
+  margin-left: 20rem;
+  text-indent: 20px;
+  padding-top: 40px;
+  text-indent: 40px;
+}
+
+.logos {
+  background-color: hsl(229, 57%, 11%);
+  padding: 10px;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+
+.background-image {
+  position: absolute;
+  top: 200px;
+  margin: auto;
+}
+
+.attribution {
+padding-top: 600px;
+}
